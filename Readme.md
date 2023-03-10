@@ -2,8 +2,9 @@
 
 ### An SQL analysis
 
-[Screenshot of schema digram](https://github.com/jumbledore/My-second-capstone-project/issues/1#issue-1618748563)
-[Screenshot of tables used for capstone project] (https://github.com/jumbledore/My-second-capstone-project/issues/2#issue-1618755575)
+[Screenshot of schema digram](https://user-images.githubusercontent.com/123168272/224294224-0600a82b-d24a-4ec8-a342-dc997d25ecd2.png)
+
+[Screenshot of tables used for capstone project] (https://user-images.githubusercontent.com/123168272/224294977-8ecf10f5-c9f3-4665-bc46-6aef720d42d4.png)
 
 [Link to dataset](https://github.com/lorint/AdventureWorks-for-Postgres)
 
