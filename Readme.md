@@ -2,7 +2,8 @@
 
 ### An SQL analysis
 
-![Screenshot of dashboard]()
+[Screenshot of schema digram](https://github.com/jumbledore/My-second-capstone-project/issues/1#issue-1618748563)
+[Screenshot of tables used for capstone project] (https://github.com/jumbledore/My-second-capstone-project/issues/2#issue-1618755575)
 
 [Link to dataset](https://github.com/lorint/AdventureWorks-for-Postgres)
 
@@ -17,13 +18,11 @@ I have learnt basic sql queries such as inner join to obtain information from da
 
 #### Edits made to raw data set
 
-Under marital status, edited "Yolo", "Alone", "Widowed" to "Single"
+No edits were made to actual dataset but i compiled data from 5 tables from the original dataset into one table for the purpose of the assignment
 
 #### Conclusions drawn from data
-- Majority of customers come from Spain, Saudi Arabia.
-- Middle class income group are the largest spenders; highest number of purchase.
-- Huge expenditure on wine across all income group.
-- Couples generally spend higher than singles.
-- Expenditure on meat is not porpotional to income.
+- Majority of customers are based in the US.
+- Mountain and road bicycles are the top selling products.
+- Many customers feedback that their purchase was due to the prices (goods are price elastic).
 
 [Link to LinkedIn](https://www.linkedin.com/in/jeremy-tay-116124139/)
