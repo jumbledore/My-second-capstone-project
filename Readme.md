@@ -8,7 +8,6 @@
 ![Screenshot of schema digram](https://user-images.githubusercontent.com/123168272/224294224-0600a82b-d24a-4ec8-a342-dc997d25ecd2.png)
 
 ![Screenshot of tables used for capstone project](https://user-images.githubusercontent.com/123168272/224294977-8ecf10f5-c9f3-4665-bc46-6aef720d42d4.png)
-
 [Link to dataset](https://github.com/lorint/AdventureWorks-for-Postgres)
 
 #### Description of dataset
