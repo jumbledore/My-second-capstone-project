@@ -27,5 +27,7 @@ No edits were made to actual dataset but i compiled data from 5 tables from the 
 - Majority of customers are based in the US.
 - Mountain and road bicycles are the top selling products.
 - Many customers feedback that their purchase was due to the prices (goods are price elastic).
+- The Company is increasing in revenue/sales year on year.
+- Highest sales are in Q3.
 
-[Link to LinkedIn](https://www.linkedin.com/in/jeremy-tay-116124139/)
+[Link to Linkedin](https://www.linkedin.com/in/jeremy-tay-116124139/)
