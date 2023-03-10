@@ -19,7 +19,7 @@ I have learnt basic sql queries such as inner join to obtain information from da
 
 #### Edits made to raw data set
 
-No edits were made to actual dataset but i compiled data from 5 tables from the original dataset into one table for the purpose of the assignment
+No edits were made to actual dataset but i compiled data from 5 tables from the original dataset into one table for the purpose of the assignment. Table name is called main_6.
 
 #### Conclusions drawn from data
 - Majority of customers are based in the US.
