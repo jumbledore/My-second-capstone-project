@@ -2,6 +2,9 @@
 
 ### An SQL analysis
 
+
+![Screenshot of dashboard](https://user-images.githubusercontent.com/123168272/224299925-b5bc4423-daec-413d-a62c-f9aff6f05d29.png)
+
 ![Screenshot of schema digram](https://user-images.githubusercontent.com/123168272/224294224-0600a82b-d24a-4ec8-a342-dc997d25ecd2.png)
 
 ![Screenshot of tables used for capstone project](https://user-images.githubusercontent.com/123168272/224294977-8ecf10f5-c9f3-4665-bc46-6aef720d42d4.png)
